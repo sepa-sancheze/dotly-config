@@ -1,6 +1,10 @@
 # Enable aliases to be sudo’ed
 alias sudo='sudo '
 
+# Aliases for colors
+alias ls="ls --color=auto"
+alias dir="dir --color=auto"
+
 # System
 alias ..="cd .."
 alias ~="cd ~"
