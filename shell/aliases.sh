@@ -8,7 +8,7 @@ alias dir="dir --color=auto"
 # System
 alias ..="cd .."
 alias ~="cd ~"
-alias lah="ls -lah"
+alias la="ls -lah"
 alias ll="ls -lh"
 alias dotfiles='cd $DOTFILES_PATH'
 
