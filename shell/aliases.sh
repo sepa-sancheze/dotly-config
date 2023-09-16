@@ -19,8 +19,9 @@ alias gs="git status -sb"
 alias gac="git add . && git commit"
 alias gps="git push"
 alias gpl="git pull"
-alias gl="git log"
+alias gl="git log --oneline"
 alias glp='$DOTLY_PATH/bin/dot git pretty-log'
+alias gt="git log --all --decorate --oneline --graph"
 
 alias gco="git checkout"
 alias gd='$DOTLY_PATH/bin/dot git pretty-diff'
